@@ -12,7 +12,7 @@ export const environment = {
         extraQueryParameters: "",
         popUp: true,
         popUpUri: "/app-silent-start",
-        popUpWidth: 601,
+        popUpWidth: 600,
         popUpHeight: 535
     },
 
